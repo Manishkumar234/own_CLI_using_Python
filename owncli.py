@@ -2,8 +2,6 @@ import os
 import sys
 from pathlib import Path
 import subprocess
-
-#Based on the code given by Dr. De Luca in class.
     
 def writing_in_file(command, fp):
     if(command_array[0] == 'cd'):
